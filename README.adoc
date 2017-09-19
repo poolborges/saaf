@@ -1,0 +1,6 @@
+= SAAF
+
+
+== Run SAAF 
+
+java -Xms500M -Xmx500M -Dfile.encoding=UTF-8 -jar SAAF.jar "$@"
